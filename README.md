@@ -1,6 +1,8 @@
 # Image-Hashing
-Worked on an Image Hashing algorithm.Worked on optimizing its robustness and secureness.
+Worked on implementing an Image Hashing algorithm using image sharpeness techniques, ring partition and fuzzification.
+Worked on optimizing its robustness and discriminative power.
 
+Algorithm :
 Binary Hash of Matrix :
 	1. Take mean of each row and store it in list A
 	2. Take variance of each row and store it in list B
@@ -20,3 +22,5 @@ Algorithm for Image Hashing:
 5. Normalize it and pass it through a median filter
 6. Apply fuzzification
 7. Return binary hash of the matrix.
+
+Reference papers : https://coek.info/pdf-an-image-sharpening-algorithm-based-on-fuzzy-logic-.html
