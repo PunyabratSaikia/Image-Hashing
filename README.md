@@ -23,15 +23,8 @@ Algorithm for Image Hashing:
 6. Apply fuzzification
 7. Return binary hash of the matrix.
 
-Reference papers :
-i) https://coek.info/pdf-an-image-sharpening-algorithm-based-on-
-fuzzy-logic-.html.
-ii) https://ieeexplore.ieee.org/document/7286814.
-iii) https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5118381/#:~:text=
-The%20ring%20partitioning%20technique%20converts,generate%20the%20shorter
-%20hash%20sequence.
 
-Algorithm for Image Hashing:
+Reference papers :
 
 1. https://coek.info/pdf-an-image-sharpening-algorithm-based-on-fuzzy-logic-.html.
 2. https://ieeexplore.ieee.org/document/7286814.
