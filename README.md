@@ -33,7 +33,8 @@ The%20ring%20partitioning%20technique%20converts,generate%20the%20shorter
 
 Algorithm for Image Hashing:
 
-1. Convert the image into ring partitions with each ring of equal area
+1. https://coek.info/pdf-an-image-sharpening-algorithm-based-on-
+fuzzy-logic-.html.
 2. Take each ring and combine them to form a matrix with each ring forming 
    a row  of the matrix.
 3. Convert the  image to gray scale
