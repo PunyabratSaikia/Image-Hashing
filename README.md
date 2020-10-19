@@ -30,3 +30,15 @@ ii) https://ieeexplore.ieee.org/document/7286814.
 iii) https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5118381/#:~:text=
 The%20ring%20partitioning%20technique%20converts,generate%20the%20shorter
 %20hash%20sequence.
+
+Algorithm for Image Hashing:
+
+1. Convert the image into ring partitions with each ring of equal area
+2. Take each ring and combine them to form a matrix with each ring forming 
+   a row  of the matrix.
+3. Convert the  image to gray scale
+4. Resize it to 256*256 pixels
+5. Normalize it and pass it through a median filter
+6. Apply fuzzification
+7. Return binary hash of the matrix.
+
