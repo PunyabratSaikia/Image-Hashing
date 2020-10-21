@@ -1,5 +1,5 @@
 # Image-Hashing
-Worked on implementing an Image Hashing algorithm using image sharpeness techniques, ring partition and fuzzification.
+Worked on implementing an Image Hashing algorithm using image sharpness techniques, ring partition and fuzzification.
 Worked on optimizing its robustness and discriminative power.
 
 Algorithm :
