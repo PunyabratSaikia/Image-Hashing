@@ -1,5 +1,5 @@
 # Image-Hashing
-This image hashing algorithm utilizes image sharpness techniques, ring partition and fuzzification.
+This image hashing algorithm utilizes image sharpness techniques and ring partition .
 The robustness and discriminative power is optimized.
 
 Algorithm :
