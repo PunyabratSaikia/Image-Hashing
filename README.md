@@ -20,8 +20,7 @@ Algorithm for Image Hashing:
 3. Convert the  image to gray scale
 4. Resize it to 256*256 pixels
 5. Normalize it and pass it through a median filter
-6. Apply fuzzification
-7. Return binary hash of the matrix.
+6. Return binary hash of the matrix.
 
 
 Reference papers :
